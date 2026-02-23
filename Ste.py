@@ -1,7 +1,6 @@
 # ════════════════════
-__ENC_AUTHOR__ = "STEIN"
-__TELEGRAM__ = "@rejerk"
-__GROUP_CHAT__ = "@keped"
+__ENC_OWNER = "GHOST"
+__TG = "@GHOST_OWNS"
 # ════════════════════
 
 
